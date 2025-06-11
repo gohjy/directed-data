@@ -1,2 +1,6 @@
-# directed-data
-Redirect data for the Directed service.
+# Directed data
+Redirect data for the Directed service - [gohjy/directed](https://github.com/gohjy/directed).
+
+If you'd like to suggest an edit or new page to add to the dataset, feel free to open an issue or PR in this repo!
+
+Questions or improvements to the redirect code itself or frontend/page content should go in the [main repo](https://github.com/gohjy/directed).
