@@ -1,0 +1,21 @@
+{
+    "github": "https://github.com",
+    "gitlab": "https://gitlab.com",
+    "chatgpt": "https://chatgpt.com",
+    "copilot": "https://copilot.microsoft.com",
+    "deepseek": "https://deepseek.com",
+    "gemini": "https://gemini.google",
+    "google": "https://google.com",
+    "youtube": "https://youtube.com",
+    "mdn": "https://developer.mozilla.org",
+    "wayback": "https://web.archive.org",
+    "archive": "https://archive.org",
+    "bing": "https://bing.com",
+    "ddg": "https://duckduckgo.com",
+    "cna": "https://channelnewsasia.com",
+    "str": "https://straitstimes.com",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "threads": "https://threads.com",
+    "timeis": "https://time.is"
+}
