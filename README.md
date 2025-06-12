@@ -7,4 +7,4 @@ Questions or improvements to the redirect code itself or frontend/page content s
 
 ---
 
-The data is deployed manually from the `data` directory, and is also scheduled to run every Friday at 2030 hours UTC.
+The data is deployed manually from the `data` directory, and is also scheduled to run every Friday at 2038 hours UTC.
