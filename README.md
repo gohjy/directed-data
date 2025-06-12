@@ -8,3 +8,4 @@ Questions or improvements to the redirect code itself or frontend/page content s
 ---
 
 The data is deployed manually from the `data` directory, and is also scheduled to run every Friday at 2038 hours UTC.
+The deployed file (`data.json`) is available at [`https://gohjy.github.io/directed-data/data.json`](https://gohjy.github.io/directed-data/data.json).
