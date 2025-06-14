@@ -1,4 +1,9 @@
 {
+    "dct": "https://gohjy.github.io/directed/home.html",
+    "dct-list": "https://gohjy.github.io/directed/list.html",
+    "dct-repo": "https://github.com/gohjy/directed",
+    "dct-data": "https:/github.com/gohjy/directed-data",
+
     "github": "https://github.com",
     "gitlab": "https://gitlab.com",
     "chatgpt": "https://chatgpt.com",
@@ -12,8 +17,6 @@
     "archive": "https://archive.org",
     "bing": "https://bing.com",
     "ddg": "https://duckduckgo.com",
-    "cna": "https://channelnewsasia.com",
-    "str": "https://straitstimes.com",
     "facebook": "https://facebook.com",
     "instagram": "https://instagram.com",
     "threads": "https://threads.com",
